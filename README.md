@@ -6,6 +6,13 @@ This repository provides a complete, step-by-step machine learning workflow for 
 
 Cardiovascular diseases are among the leading causes of death worldwide. Accurately identifying individuals at risk before symptoms appear enables earlier intervention and improved health outcomes. This repository demonstrates how to preprocess data, explore key relationships, select and engineer features, train and validate machine learning models, and interpret the results using real medical data.
 
+It is a group project for university assignment purpose.
+
+Contributors:
+-davinc27
+-qianru12
+-TokSawPing
+
 ## Dataset
 
 The dataset used for cardiovascular risk classification includes the following:
