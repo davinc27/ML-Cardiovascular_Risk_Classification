@@ -8,10 +8,6 @@ Cardiovascular diseases are among the leading causes of death worldwide. Accurat
 
 It is a group project for university assignment purpose.
 
-Contributors:
--davinc27
--qianru12
--TokSawPing
 
 ## Dataset
 
